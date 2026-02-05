@@ -17,12 +17,16 @@ with st.container(border=True):
 En gairebé totes les gràfiques de totes les ciutats estudiades s'aprecia la influència de la pandèmia del COVID19, amb pics pronunciats i empitjorament
 dels indicadors estudiats.
 """)
+    
+st.space('stretch')
 
 with st.container(border=True):
     st.write("""
 L'efecte de disposar d'una sèrie amb poques dades es veu reflectida en les prediccions. Per a alguns dels municipis estudiats,
 les prediccions es podrien ajustar millor seleccionant altres indicadors amb més correlacions amb la variable objectiu.
 """)
+
+st.space('stretch')
 
 with st.container(border=True):
     st.write("""
