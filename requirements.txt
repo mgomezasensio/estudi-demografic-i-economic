@@ -3,6 +3,6 @@ pandas
 numpy
 plotly.express
 seaborn
-sklearn
+scikit-learn
 matplotlib
 statsmodels
